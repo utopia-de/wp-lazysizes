@@ -1,7 +1,8 @@
 {
     "name": "afarkas/wp-lazysizes",
     "description": "Lazyload responsive images with automatic sizes calculation",
-    "require": {
+    "type": "wordpress-plugin",
+    "require-dev": {
         "phpunit/phpunit": "^5.3"
     },
     "license": "GPL-2.0+",
